@@ -5,6 +5,7 @@ Design an app that connects students who are looking for study partners based on
 
 # Table of contents  
 1. [Tech_Stack](#Tech_Stack)  
+2. [Design](#HiDe)
 
 ## <a name="Tech_Stack"></a>  Tech Stack 
  - **Client:** : Flutter (*Tentative*)
@@ -15,3 +16,5 @@ Design an app that connects students who are looking for study partners based on
 
  - **Voice and Video** : WebRTC  
 
+## <a name="HiDe"></a> High-Level Design
+![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)  
