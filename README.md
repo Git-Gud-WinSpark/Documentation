@@ -17,4 +17,4 @@ Design an app that connects students who are looking for study partners based on
  - **Voice and Video** : WebRTC  
 
 ## <a name="HiDe"></a> High-Level Design
-![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)  
+![App Screenshot](https://github.com/Git-Gud-WinSpark/Documentation/blob/main/image.png)  
