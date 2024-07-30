@@ -22,7 +22,7 @@
 6. [Resource Management](#3-resource-management)
 7. [Error Responses](#error-responses)
 
-## <a name="introduction"></a>Introduction
+## Introduction
 
 Study-co platform API categorizes into 3 major categories:
 1. **User Management**: This category includes all the APIs related to user creation, login, account management, profile management, etc.
