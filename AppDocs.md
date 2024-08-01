@@ -1,4 +1,4 @@
-# WinSpark Frontend Application Documentation
+# Stud-Com Frontend Application Documentation
 
 This is the documentation for the WinSpark frontend application. The application is built using Flutter and is designed to connect students who are looking for study partners based on their subjects, schedules, and study preferences.
 

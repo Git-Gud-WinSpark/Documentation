@@ -1,4 +1,4 @@
-# API DOCS FOR STUDY-CO PLATFORM
+# API DOCS FOR STUD-COM PLATFORM
 
 # Table of contents  
 1. [Introduction](#introduction)
