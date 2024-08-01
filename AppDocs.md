@@ -57,3 +57,28 @@ The frontend application communicates with the backend API to fetch and send dat
 - `/getChats`: Retrieves chat messages from a channel.
 - `/sendP2PChatMessage`: Sends a direct message to another user.
 - `/getP2PChats`: Retrieves direct messages between two users.
+
+## Screenshots
+
+### Login Page / SignUP Page
+
+<img src= "assets\image (13).png" style="height:400px;"/>
+<img src= "assets\image (12).png" style="height:400px;"/>
+
+### Home Screen 
+
+<img src="assets\image (11).png" style="height:400px;"/>
+
+### Create Community
+
+<img src ="assets/image (10).png" style="height:400px;"/>
+
+### Create Channel
+
+<img src ="assets/image (14).png" style="height:400px;"/>
+
+### Channels
+
+<img src ="assets/image (9).png" style="height:400px;"/>
+
+###
