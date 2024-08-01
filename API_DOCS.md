@@ -91,7 +91,7 @@ Authenticate a user and receive a JWT token.
 Retrieve information about a specific user by ID.
 
 - **URL**: `/api/fetchUser`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -122,7 +122,7 @@ Retrieve information about a user by their username.
 Create a new study group community.
 
 - **URL**: `/api/createCommunity`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 
 ```json
@@ -143,7 +143,7 @@ Create a new study group community.
 Create a new channel within a study group community.
 
 - **URL**: `/api/createChannel`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -164,7 +164,7 @@ Create a new channel within a study group community.
 Send a chat message in a channel.
 
 - **URL**: `/api/chat`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -186,7 +186,7 @@ Send a chat message in a channel.
 Retrieve chat messages from a channel.
 
 - **URL**: `/api/getChats`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -206,7 +206,7 @@ Retrieve chat messages from a channel.
 Add a user to an existing study group community.
 
 - **URL**: `/api/addCommunity`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -227,7 +227,7 @@ Add a user to an existing study group community.
 Retrieve a list of all study group communities.
 
 - **URL**: `/api/listAllCommunity`
-- **Method**: GET
+- **Method**: ``GET``
 - Success Response:
 
     - Code: 200
@@ -240,7 +240,7 @@ Retrieve a list of all study group communities.
 Retrieve a list of study group communities the authenticated user belongs to.
 
 - **URL**: `/api/listUserCommunity`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -260,7 +260,7 @@ Retrieve a list of study group communities the authenticated user belongs to.
 Send a direct message to another user.
 
 - **URL**: `/api/p2pChat`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -282,7 +282,7 @@ Send a direct message to another user.
 Retrieve direct messages between two users.
 
 - **URL**: `/api/getP2PChats`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -303,7 +303,7 @@ Retrieve direct messages between two users.
 Retrieve a list of all direct message conversations for the authenticated user.
 
 - **URL**: `/api/listP2PConversations`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -325,7 +325,7 @@ Retrieve a list of all direct message conversations for the authenticated user.
 Set progress tracking information for a user in a specific community and channel.
 
 - **URL**: `/progressTrack`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ``` json
 {
@@ -346,7 +346,7 @@ Set progress tracking information for a user in a specific community and channel
 Retrieve live tasks for the authenticated user.
 
 - **URL**: `/progressTrack/getLiveTask`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -363,7 +363,7 @@ Retrieve live tasks for the authenticated user.
 Mark a task or subtask as complete.
 
 - **URL**: `/progressTrack/completeTask`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -385,7 +385,7 @@ Mark a task or subtask as complete.
 Set multiple live tasks for a user in a specific community and channel.
 
 - **URL**: `/progressTrack/setLiveTask`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
@@ -412,7 +412,7 @@ Set multiple live tasks for a user in a specific community and channel.
 Record time spent on a specific task or subtask.
 
 - **URL**: `/progressTrack/setTime`
-- **Method**: POST
+- **Method**: `POST`
 - **Body**:
 ```json
 {
